@@ -1,11 +1,10 @@
-I am currently a Stein fellow in the Statistics Department at Stanford. You can see a current list of my papers here or on my 
-[arXiv](https://arxiv.org/a/0000-0001-7919-364X.html) page. My research interests lie at the interface of statistics and applied probability. A few main themes are:
+I am currently a Stein fellow in the Statistics Department at Stanford. You can see a current list of my papers here or on my [arXiv](https://arxiv.org/a/0000-0001-7919-364X.html) page. My research interests lie at the interface of statistics and applied probability. A few main themes are:
 
-Scalable Bayesian computation
-Computational complexity of MCMC
-Mixture models, particularly for contingency tables and categorical data
-Point processes, with applications in multivariate extreme value theory and phylodynamics
-Applied projects in algorithmic fairness, population estimation, and A/B testing
+1. Scalable Bayesian computation
+2. Computational complexity of MCMC
+3. Mixture models, particularly for contingency tables and categorical data
+4. Point processes, with applications in multivariate extreme value theory and phylodynamics
+5. Applied projects in algorithmic fairness, population estimation, and A/B testing
 
 For specific papers, see my arXiv author page.
 
